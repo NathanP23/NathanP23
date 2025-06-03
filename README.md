@@ -18,7 +18,7 @@
 ⚙️ Tools & Tech:
 - **Python**, **PyTorch**, **scikit-learn**, **pandas**
 - **Docker**, **FastAPI**, **Redis**, **SQL**, **Bash**
-- **Next.js**, **React**, **TypeScript**
+- **NumPy**, **matplotlib**, **JupyterLab**
 
 🤝 I'm open to collaboration on:
 - Deep learning projects using PyTorch or Transformers
