@@ -40,8 +40,6 @@
 <br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NathanP23&theme=dark)
 <br>
-[![Nathan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NathanP23&theme=github-compact)](https://github.com/NathanP23)
-
 </div>
 
 <!---
