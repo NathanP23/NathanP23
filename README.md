@@ -30,6 +30,20 @@
 📫 Reach me: NathanP20@icloud.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-p-6038282b0)
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanP23&show_icons=true&theme=github_dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanP23&layout=compact&theme=github_dark)
+<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=NathanP23&theme=dark)
+<br>
+[![Nathan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NathanP23&theme=github-compact)](https://github.com/NathanP23)
+
+</div>
+
 <!---
 NathanP23/NathanP23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
