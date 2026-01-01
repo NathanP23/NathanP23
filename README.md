@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nathan
 
-🎓 I'm a Data Science student at **The Hebrew University of Jerusalem** and a Data Analyst at the **Israel Central Bureau of Statistics (CBS)**.
+🎓 I'm a Data Science student at **The Hebrew University of Jerusalem** and a Research Data Scientist at the **Israel Central Bureau of Statistics (CBS)**.
 
 🔬 I specialize in **machine learning**, **deep learning**, and the application of **statistical modeling** to real-world data — especially under constraints of scale, latency, and deployment.
 
