@@ -1,7 +1,7 @@
 # 🚧 WARNING: UNDER CONSTRUCTION 🚧
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
   <p>
     <b>⚠️ VISITOR WARNING ⚠️</b><br>
     The repositories below are primarily <b>academic artifacts</b>.<br>
