@@ -1,48 +1,65 @@
-# 👋 Hi, I’m Nathan
-
-🎓 I'm a Data Science student at **The Hebrew University of Jerusalem** and a Research Data Scientist at the **Israel Central Bureau of Statistics (CBS)**.
-
-🔬 I specialize in **machine learning**, **deep learning**, and the application of **statistical modeling** to real-world data — especially under constraints of scale, latency, and deployment.
-
-🧠 My recent focus is on **deep neural network architectures** and **practical PyTorch implementations**, based on my work in the advanced course [**Introduction to Deep Learning (67822)**](https://github.com/NathanP23/Introduction-to-Deep-Learning-67822), where I’ve:
-- Built and trained **convolutional autoencoders (CAEs)**
-- Explored **transfer learning** from pretrained encoders to new classifiers
-- Studied and implemented **RNNs, CNNs, GANs, AEs, diffusion models, and attention mechanisms**
-- Applied **loss landscape analysis**, **optimization techniques**, and **theoretical understanding** of the functional space neural networks span
-
-📚 Other key repositories include:
-- [Regression and Statistical Models (52571)](https://github.com/NathanP23/Regression-and-Statistical-Models-52571)
-- [Statistical Learning and Data Analysis (52525)](https://github.com/NathanP23/Statistical-Learning-and-Data-Analysis-52525)
-- [Big Data Mining (52002)](https://github.com/NathanP23/Big-Data-Mining-52002)
-
-⚙️ Tools & Tech:
-- **Python**, **PyTorch**, **scikit-learn**, **pandas**
-- **Docker**, **FastAPI**, **Redis**, **SQL**, **Bash**
-- **NumPy**, **matplotlib**, **JupyterLab**
-
-🤝 I'm open to collaboration on:
-- Deep learning projects using PyTorch or Transformers
-- Research or experiments in model optimization, data efficiency, or architectural innovation
-- Applied ML pipelines and distributed systems for large-scale analytics
-
-🎸 Fun fact: I love heavy metal and play guitar in my free time.
-
-📫 Reach me: NathanP20@icloud.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nathan-p-6038282b0)
-
-## 📊 GitHub Stats & Activity
+# 🚧 WARNING: UNDER CONSTRUCTION 🚧
 
 <div align="center">
-
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanP23&show_icons=true&theme=github_dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanP23&layout=compact&theme=github_dark)
-<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=NathanP23&theme=dark)
-<br>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" />
+  <p>
+    <b>⚠️ VISITOR WARNING ⚠️</b><br>
+    The repositories below are primarily <b>academic artifacts</b>.<br>
+    They are incomplete, unmaintained, and held together by duct tape and student tears.<br>
+    <i>Do not expect production code. Expect "it worked on my machine 5 minutes before the deadline" code.</i>
+  </p>
 </div>
 
-<!---
-NathanP23/NathanP23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# 👋 Hi, I’m Nathan
+
+I am navigating the messiness of real-world data and the abstract theory of deep learning.
+
+🎓 **Data Science Student** @ [The Hebrew University of Jerusalem](https://en.huji.ac.il/)  
+🔬 **Research Data Scientist** @ **Israel Central Bureau of Statistics (CBS)** *(Specifically the Statistical Methodology Department, where I research Deep learning and Explainable AI (xAI) for national data)*
+
+### 🔭 Current Focus
+My academic focus has shifted from standard ML & stats to **Generative Models**, **Deep Learning**, **Computer Graphics**, and **Image Processing**. I am currently breaking things in:
+* **Deep Generative Models:** Diffusion, GANs, and Autoencoders.
+* **Image Processing & Computer Graphics:** 3D vision concepts and heavy image processing pipelines.
+* **xAI Research:** Trying to make black-box models explain themselves in a government context mathematically.
+
+---
+
+### 🚧 Active Construction Zones (Newer Coursework)
+*These projects are currently being built (or broken) as part of my advanced electives.*
+
+* **Deep Generative Models**: Exploring Diffusion Models, VAEs, and GAN architectures.
+* **Image Processing**: Low-level vision, filtering, and frequency domain manipulation.
+* **Computer Graphics**: 3D rendering pipelines, geometry processing, and ray tracing.
+
+### 🏛️ The Graveyard (Past Academic Repositories)
+*Most of these are frozen in time. They served their purpose for a grade and have been abandoned since.*
+
+#### **Deep Learning & Neural Networks**
+* [**Intro to Deep Learning (67822)**](https://github.com/NathanP23/Introduction-to-Deep-Learning-67822): My sandbox for PyTorch implementations. Contains custom Convolutional Autoencoders (CAEs), Transfer Learning experiments, and from-scratch implementations of RNNs and Attention mechanisms.
+
+#### **Statistical Foundations**
+* [**Regression & Models (52571)**](https://github.com/NathanP23/Regression-and-Statistical-Models-52571): Heavy focus on GLMs and theoretical constraints.
+* [**Statistical Learning (52525)**](https://github.com/NathanP23/Statistical-Learning-and-Data-Analysis-52525): The mathematical backbone of my ML knowledge.
+* [**Big Data Mining (52002)**](https://github.com/NathanP23/Big-Data-Mining-52002): Handling data at scale (or trying to).
+
+---
+
+### 🛠️ The Toolkit
+* **Languages:** Python (Native), SQL (Fluent), Bash (Love it), C/C++ (where i started - Native)
+* **Frameworks:** PyTorch (Daily driver), scikit-learn, pandas, NumPy, MatPlotLib
+* **Infrastructure:** Docker, FastAPI, Redis
+* **Tools:** JupyterLab, Git
+
+### 🤝 Collaborative Interests
+~~*If you are okay with experimental code, I am open to:*~~
+* ~~Deep learning research (specifically PyTorch/Transformers)~~
+* ~~Architectural innovation in Neural Networks~~
+* ~~Applied ML pipelines that need to scale~~
+
+I'm really busy right now finishing my degree...
+
+### ⚡ Fun Fact
+I play guitar and listen to **Heavy Metal**. Much like the current GitHub state, it is loud, complex, and sometimes difficult to understand.
