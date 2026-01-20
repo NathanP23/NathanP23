@@ -30,7 +30,7 @@ My academic focus has shifted from standard ML & stats to **Generative Models**,
 ### 🚧 Active Construction Zones (Newer Coursework)
 *These projects are currently being built (or broken) as part of my advanced electives.*
 
-* **Deep Generative Models**: Exploring Diffusion Models, VAEs, and GAN architectures.
+* **Generative Models**: Exploring Diffusion Models, VAEs, and GAN architectures.
 * **Image Processing**: Low-level vision, filtering, and frequency domain manipulation.
 * **Computer Graphics**: 3D rendering pipelines, geometry processing, and ray tracing.
 
