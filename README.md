@@ -20,12 +20,12 @@ I work as a Research Data Scientist at the Israel Central Bureau of Statistics, 
 
 ## Toolkit
 
-- **Languages:** Python, SQL, C/C++, Bash, R, JavaScript/TypeScript, Assembly
+- **Languages:** Python, SQL, Bash, R, C/C++, Assembly
 - **ML/DL:** PyTorch, scikit-learn, NumPy, OpenAI API, Hugging Face, LangGraph
 - **Data:** pandas, Apache Spark, Google BigQuery, ElasticSearch
 - **Visualization:** Matplotlib, Seaborn, Altair, Tableau
 - **Infrastructure:** Docker, FastAPI, Redis, Git, CI/CD pipelines
-- **Environments:** Jupyter Notebooks, VS Code
+- **Environments:** Jupyter Notebooks, VS Code, SLURM, UNIX
 
 ---
 
