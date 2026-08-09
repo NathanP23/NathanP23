@@ -8,7 +8,7 @@ I work as a Research Data Scientist at the Israel Central Bureau of Statistics, 
 
 <div>
   <p>
-    <b>VISITOR WARNING</b><br>
+    <b>⚠️VISITOR WARNING⚠️</b><br>
     The repositories below are primarily <b>academic artifacts</b>.<br>
     They are incomplete, unmaintained, and held together by duct tape and student tears.<br>
     <i>Do not expect production code. Expect "it worked on my machine 5 minutes before the deadline" code.</i>
