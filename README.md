@@ -78,7 +78,7 @@ Most of my work as a developer is in private repos or other GitHub accounts. Pro
 ## Work Experience
 
 - **Research Data Scientist** (Nov 2025 -- Present) @ CBS -- Statistical Methodology Dept.
-  <br>Researching neural architectures (MLPs, RNNs, LSTMs, GRUs, Transformers) for large-scale time-series forecasting and anomaly detection. Methodological research on Explainable AI (xAI) to validate neural network behavior against classical statistical frameworks.
+  <br>Researching neural nets architectures for large-scale time-series forecasting and anomaly detection. Methodological research on Explainable AI (xAI) to validate neural network behavior against classical statistical frameworks.
 - **ML/AI Engineer** (May 2025 -- Oct 2025) @ CBS
 - **Data Analyst** (Jan 2025 -- May 2025) @ CBS
 - **Python Tutor** (2024 -- 2025) @ Hebrew University
